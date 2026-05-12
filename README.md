@@ -1,2 +1,2 @@
 # resource_allocation_demo
-Sample end-to-end resource allocation solution on synthetic data
+Sample end-to-end resource allocation solution on synthetic data using FastAPI & React
