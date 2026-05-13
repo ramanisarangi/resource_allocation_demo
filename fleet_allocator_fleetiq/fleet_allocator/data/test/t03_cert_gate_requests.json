@@ -1,0 +1,19 @@
+[
+  {
+    "id": "REQ0020",
+    "category": "Regulatory Compliance Check",
+    "priority": "P2",
+    "required_type": "QA",
+    "required_cert": "HAZMAT",
+    "lat": 22.8,
+    "lon": 86.185,
+    "node_id": "N04",
+    "node_name": "Jamshedpur Plant",
+    "start_time": "2026-05-09T09:00:00",
+    "end_time": "2026-05-09T14:00:00",
+    "duration_hr": 5,
+    "sla_minutes": 60,
+    "status": "OPEN",
+    "assigned_to": null
+  }
+]

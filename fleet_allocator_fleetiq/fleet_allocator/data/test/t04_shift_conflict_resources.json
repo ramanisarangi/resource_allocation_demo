@@ -1,0 +1,41 @@
+[
+  {
+    "id": "R030",
+    "name": "TP-Hotel",
+    "type": "TP",
+    "type_label": "Transport Planner",
+    "lat": 21.252,
+    "lon": 81.629,
+    "certifications": [
+      "RAIL_OPS"
+    ],
+    "shift_start": "2026-05-09T06:00:00",
+    "shift_end": "2026-05-09T14:00:00",
+    "cost_per_km": 11.0,
+    "capacity": 1,
+    "available": true,
+    "current_load": 0,
+    "home_node_id": "N10",
+    "home_node": "Raipur Rail Yard"
+  },
+  {
+    "id": "R031",
+    "name": "TP-India",
+    "type": "TP",
+    "type_label": "Transport Planner",
+    "lat": 21.252,
+    "lon": 81.629,
+    "certifications": [
+      "RAIL_OPS",
+      "CUSTOMS"
+    ],
+    "shift_start": "2026-05-09T12:00:00",
+    "shift_end": "2026-05-09T22:00:00",
+    "cost_per_km": 13.0,
+    "capacity": 1,
+    "available": true,
+    "current_load": 0,
+    "home_node_id": "N10",
+    "home_node": "Raipur Rail Yard"
+  }
+]

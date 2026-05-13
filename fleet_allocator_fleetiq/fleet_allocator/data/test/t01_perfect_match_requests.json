@@ -1,0 +1,53 @@
+[
+  {
+    "id": "REQ0001",
+    "category": "Inbound Material Inspection",
+    "priority": "P2",
+    "required_type": "FIE",
+    "required_cert": null,
+    "lat": 21.018,
+    "lon": 85.855,
+    "node_id": "N03",
+    "node_name": "Kalinganagar Plant",
+    "start_time": "2026-05-09T09:00:00",
+    "end_time": "2026-05-09T12:00:00",
+    "duration_hr": 3,
+    "sla_minutes": 60,
+    "status": "OPEN",
+    "assigned_to": null
+  },
+  {
+    "id": "REQ0002",
+    "category": "Routine Logistics Support",
+    "priority": "P3",
+    "required_type": "LC",
+    "required_cert": null,
+    "lat": 22.572,
+    "lon": 88.363,
+    "node_id": "N07",
+    "node_name": "Kolkata DC",
+    "start_time": "2026-05-09T10:00:00",
+    "end_time": "2026-05-09T12:00:00",
+    "duration_hr": 2,
+    "sla_minutes": 120,
+    "status": "OPEN",
+    "assigned_to": null
+  },
+  {
+    "id": "REQ0003",
+    "category": "Vendor Quality Audit",
+    "priority": "P2",
+    "required_type": "QA",
+    "required_cert": "ISO9001",
+    "lat": 22.104,
+    "lon": 85.362,
+    "node_id": "N01",
+    "node_name": "Barbil Mine",
+    "start_time": "2026-05-09T08:00:00",
+    "end_time": "2026-05-09T14:00:00",
+    "duration_hr": 6,
+    "sla_minutes": 60,
+    "status": "OPEN",
+    "assigned_to": null
+  }
+]

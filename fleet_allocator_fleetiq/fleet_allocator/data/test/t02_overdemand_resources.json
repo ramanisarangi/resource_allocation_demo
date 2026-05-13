@@ -1,0 +1,38 @@
+[
+  {
+    "id": "R010",
+    "name": "FIE-Delta",
+    "type": "FIE",
+    "type_label": "Field Inspection Engineer",
+    "lat": 20.296,
+    "lon": 85.824,
+    "certifications": [
+      "ISO9001"
+    ],
+    "shift_start": "2026-05-09T08:00:00",
+    "shift_end": "2026-05-09T18:00:00",
+    "cost_per_km": 12.0,
+    "capacity": 2,
+    "available": true,
+    "current_load": 0,
+    "home_node_id": "N05",
+    "home_node": "Bhubaneswar Hub"
+  },
+  {
+    "id": "R011",
+    "name": "WS-Echo",
+    "type": "WS",
+    "type_label": "Warehouse Supervisor",
+    "lat": 20.316,
+    "lon": 86.609,
+    "certifications": [],
+    "shift_start": "2026-05-09T09:00:00",
+    "shift_end": "2026-05-09T17:00:00",
+    "cost_per_km": 9.0,
+    "capacity": 1,
+    "available": true,
+    "current_load": 0,
+    "home_node_id": "N08",
+    "home_node": "Paradip Port"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "N01",
+    "name": "Barbil Mine Depot",
+    "lat": 22.104,
+    "lon": 85.362,
+    "type": "mine"
+  },
+  {
+    "id": "N02",
+    "name": "Noamundi Mine Depot",
+    "lat": 22.158,
+    "lon": 85.503,
+    "type": "mine"
+  },
+  {
+    "id": "N03",
+    "name": "Kalinganagar Plant",
+    "lat": 21.018,
+    "lon": 85.855,
+    "type": "plant"
+  },
+  {
+    "id": "N04",
+    "name": "Jamshedpur Plant",
+    "lat": 22.8,
+    "lon": 86.185,
+    "type": "plant"
+  },
+  {
+    "id": "N05",
+    "name": "Bhubaneswar Hub",
+    "lat": 20.296,
+    "lon": 85.824,
+    "type": "warehouse"
+  },
+  {
+    "id": "N06",
+    "name": "Ranchi Hub",
+    "lat": 23.344,
+    "lon": 85.31,
+    "type": "warehouse"
+  },
+  {
+    "id": "N07",
+    "name": "Kolkata Distribution DC",
+    "lat": 22.572,
+    "lon": 88.363,
+    "type": "warehouse"
+  },
+  {
+    "id": "N08",
+    "name": "Paradip Port Yard",
+    "lat": 20.316,
+    "lon": 86.609,
+    "type": "port"
+  },
+  {
+    "id": "N09",
+    "name": "Haldia Port Yard",
+    "lat": 22.025,
+    "lon": 88.069,
+    "type": "port"
+  },
+  {
+    "id": "N10",
+    "name": "Raipur Rail Yard",
+    "lat": 21.252,
+    "lon": 81.629,
+    "type": "railyard"
+  },
+  {
+    "id": "N11",
+    "name": "Pune OEM Zone",
+    "lat": 18.52,
+    "lon": 73.856,
+    "type": "customer"
+  },
+  {
+    "id": "N12",
+    "name": "Chennai OEM Zone",
+    "lat": 13.082,
+    "lon": 80.27,
+    "type": "customer"
+  }
+]

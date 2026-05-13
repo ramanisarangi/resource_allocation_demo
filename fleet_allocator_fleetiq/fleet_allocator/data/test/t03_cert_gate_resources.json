@@ -1,0 +1,41 @@
+[
+  {
+    "id": "R020",
+    "name": "QA-Foxtrot",
+    "type": "QA",
+    "type_label": "Quality Auditor",
+    "lat": 22.8,
+    "lon": 86.185,
+    "certifications": [
+      "ISO9001"
+    ],
+    "shift_start": "2026-05-09T08:00:00",
+    "shift_end": "2026-05-09T18:00:00",
+    "cost_per_km": 14.0,
+    "capacity": 1,
+    "available": true,
+    "current_load": 0,
+    "home_node_id": "N04",
+    "home_node": "Jamshedpur Plant"
+  },
+  {
+    "id": "R021",
+    "name": "QA-Golf",
+    "type": "QA",
+    "type_label": "Quality Auditor",
+    "lat": 23.344,
+    "lon": 85.31,
+    "certifications": [
+      "ISO9001",
+      "HAZMAT"
+    ],
+    "shift_start": "2026-05-09T07:00:00",
+    "shift_end": "2026-05-09T19:00:00",
+    "cost_per_km": 18.0,
+    "capacity": 1,
+    "available": true,
+    "current_load": 0,
+    "home_node_id": "N06",
+    "home_node": "Ranchi Hub"
+  }
+]
