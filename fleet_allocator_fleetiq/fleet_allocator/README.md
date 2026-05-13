@@ -54,7 +54,6 @@ No paid services, API keys, or cloud accounts required.
 ### Step 1 – Clone & set up Python environment
 
 ```bash
-git clone <your-repo>
 cd fleet_allocator
 
 # Create virtual environment
